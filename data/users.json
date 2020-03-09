@@ -1,0 +1,64 @@
+[
+    {
+        "_id": "ObjectID(312418374918374)"
+        ,"user_name": "Trinesh"
+        ,"user_email": "trinesh@gmail.com"
+        ,"password": "198r19f8h19c17etfg19uf917eg9e"
+        ,"user_groups": "ObjectID(123123123)"
+        ,"user_roles": ["ObjectID(123123)", "ObjectID(3123123)"]
+        ,"phone_number_1": "+27 631 4134"
+        ,"phone_number_2": "+27 213 431"
+        ,"geographical_location":
+        {
+            "street": "19 De Wet Street, Boston, Bellville"
+            ,"suburb": "northen suburbs"
+            ,"city": "cape town"
+            ,"postal code": "7530"
+            ,"country": "South Africa"
+            ,"currency": "ZAR"
+        }
+        ,"createdSource":
+        {
+            "ip": "127.0.0.1"
+            ,"browser": "Google Chrome"
+            ,"MACAddress": "434:4134:3414:4"
+            ,"createdBy": "ObjectID(123123123)"
+            ,"createdAt": 12038710238
+        }
+        ,"currentDeviceInUse":
+        {
+            "ip": "196.0.5.2.3"
+            ,"browser":"Google Chrome"
+            ,"MACAddress": "10:3123:342:23"
+        }
+    }
+    ,{
+        "user_id": "ObjectID(431413413434414)"
+        ,"createdAt": 12038710238
+        ,"user_name": "Sandra"
+        ,"user_email": "sandra@gmail.com"
+        ,"password": "198r19f8h19c17etfg19uf917eg9e"
+        ,"user_role": "customer_service_manager"
+        ,"permissions": ["r", "w", "u", "d"]
+        ,"admin": false
+        ,"contact": "+27 431 4134"
+        ,"chatWidgetModify": false
+        ,"setChannelAccess": false
+        ,"modifySystemTheme": true
+        ,"integrationManagement": false
+    }
+    ,{
+        "user_id": "ObjectID(6422624642787488)"
+        ,"user_name": "Gwendolyn"
+        ,"user_email": "gwendolyn@gmail.com"
+        ,"password": "doduafgq9d7ft9qd7ft9ad7fgyadgf9"
+        ,"user_role": "admin"
+        ,"permissions": ["r", "w", "u", "d", "FA"]
+        ,"admin": true
+        ,"contact": "+27 234 5413"
+        ,"chatWidgetModify": true
+        ,"setChannelAccess": true
+        ,"modifySystemTheme": true
+        ,"integrationManagement": true
+    }
+]

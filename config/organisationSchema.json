@@ -1,0 +1,18 @@
+{
+    "service": "userManagement",
+    "$schemas": 
+    {
+        "organisation_schema":
+        {
+            "type": "object"
+            ,"required": true
+            ,"properties":
+            {
+                "_id": {"type": "string", "required": true},
+                "organisation_name": {"type": "string", "required": true},
+                "organisation_email": {"type": "string", "required": true},
+                "organisation_password": {"type": "string", "required": true}
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+[
+    {
+        "_id": "ObjectID(123123)"
+        ,"userGroup": "development"
+        ,"users": ["ObjectID(123123), ObjectID(123123), ObjectID(1239812386)"]
+    }
+]

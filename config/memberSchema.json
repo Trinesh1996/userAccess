@@ -1,0 +1,19 @@
+{
+    "service": "userManagement",
+    "$schemas": 
+    {
+        "member_schema":
+        {
+            "type": "object"
+            ,"required": true
+            ,"properties":
+            {
+                "_id": {"type": "string", "required": true},
+                "member_name": {"type": "string", "required": true},
+                "member_surname": {"type": "string", "required": true},
+                "member_email": {"type": "string", "required": true},
+                "password": {"type": "string", "required": true}
+            }
+        }
+    }
+}

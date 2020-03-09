@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "ObjectID(123123123)"
+        ,"basicPermissions": ["r", "w", "u", "d", "FA", "DL", "UL"]
+    }
+    ,
+    {
+        "_id": "ObjectID(123123123)"
+        ,"chatWidgetModify": true
+    }
+    ,
+    {
+        "_id":"ObjectID(123123123)"
+        ,"setChannelAccess": true
+    }
+]

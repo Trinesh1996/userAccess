@@ -1,0 +1,21 @@
+[
+    {
+        "_id": "ObjectID(123123)"
+        ,"role": "admin"
+        ,"permisions": ["ObjectID(123123123)", "ObjectID(123123123)", "ObjectID(123123123)"]
+      
+    }   
+    ,
+    {
+        "_id": "ObjectID(123123123)"
+        ,"role": "customer_service_agent"
+        ,"permisions": 
+        {
+            "basicPermissions": ["r", "w", "u", "d", "FA", "DL", "UL"]
+            ,"chatWidgetModify": false
+            ,"setChannelAccess": false
+            ,"modifySystemTheme": true
+            ,"integrationManagement": false
+        }
+    }
+]

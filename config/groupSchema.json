@@ -1,0 +1,16 @@
+{
+    "service": "userManagement",
+    "$schemas": 
+    {
+        "group":
+        {
+            "type": "object"
+            ,"required": true
+            ,"properties":
+            {
+                "_id": {"type": "string", "required": true},
+                "group": {"type": "string", "required": true}
+            }
+        }
+    }
+}
